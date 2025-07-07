@@ -11,10 +11,10 @@ You can also use the plugin to embed native "Add to Wallet" buttons with localiz
 
 
 <p>
-  <img src="assets/google_wallet.png"
+  <img src="https://github.com/murlod1n/wallet_flow/raw/main/assets/google_wallet.png"
     alt="Google Wallet Button" height="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/apple_wallet.png"
+  <img src="https://github.com/murlod1n/wallet_flow/raw/main/assets/apple_wallet.png"
    alt="Apple Wallet Button" height="400"/>
 </p>
 
