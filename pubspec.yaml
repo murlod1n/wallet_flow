@@ -31,4 +31,4 @@ flutter:
 
 screenshots:
   - description: The Wallet Flow logo.
-    path: assets/logo.png
+    path: screenshots/logo.png
